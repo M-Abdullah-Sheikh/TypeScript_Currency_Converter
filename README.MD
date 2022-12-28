@@ -1,3 +1,3 @@
 # Installation & Run
 
-npx abdul_typescript_currency_converter
+npx abdullah-typescript-currency-converter
