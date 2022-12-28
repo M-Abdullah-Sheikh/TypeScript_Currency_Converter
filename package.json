@@ -1,0 +1,30 @@
+{
+  "name": "abdul_typescript_currency_converter",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Abdullah-Sheikh/TypeScript_Currency_Converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Abdullah-Sheikh/TypeScript_Currency_Converter/issues"
+  },
+  "homepage": "https://github.com/M-Abdullah-Sheikh/TypeScript_Currency_Converter#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
